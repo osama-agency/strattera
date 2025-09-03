@@ -10,7 +10,7 @@ gem 'stimulus-rails'
 gem 'turbo-rails'
 gem 'tzinfo-data', platforms: %i[windows jruby]
 
-gem 'pg', '~> 1.5'
+gem 'pg', '~> 1.6'
 gem 'redis', '~> 5.4'
 gem 'sprockets-rails'
 gem 'vite_rails'
